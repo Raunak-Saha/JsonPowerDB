@@ -23,5 +23,8 @@ It helps developers in faster coding, in-turn reduces development cost.
 
 All code are uploaded to GITHUB
 
-Snapshots
+**Snapshots**
+
+Placed in Snapshots folder
+
 
